@@ -48,8 +48,8 @@ $ react-native run-ios or yarn run-ios
 ```
 
 ## Todos
-* Support CodePush
-* Support adMob
+* :white_medium_small_square: Support CodePush
+* :white_medium_small_square: Support adMob
 
 ## License
 * MIT
