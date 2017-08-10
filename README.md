@@ -47,6 +47,11 @@ $ adb reverse tcp:8081 tcp:8081
 $ react-native run-ios or yarn run-ios
 ```
 
+## Todos
+* Support CodePush
+* Support adMob
+
 ## License
+* MIT
 * Icons & Logo made by [flaticon.com](http://flaticon.com) is licensed by CC 3.0 BY
 * News API by [newsapi.org](http://newsapi.org)
